@@ -1,8 +1,9 @@
 # High Availability (HA):
 High availability refers to the ability of a system or service to be continuously available and operational for long periods of time, usually measured in terms of uptime without interruptions. The goal is to minimize unplanned downtime, ensuring that services are accessible to users whenever needed. To achieve high availability, various strategies are implemented, such as hardware redundancy, load balancing, and failover mechanisms.
-[[Alta Disponibilidade (High Availability):]]
+<details>
+  <summary>Alta Disponibilidade (High Availability)</summary>
 Alta disponibilidade refere-se à capacidade de um sistema ou serviço estar continuamente disponível e operacional por longos períodos de tempo, geralmente medido em termos de tempo de funcionamento sem interrupções. O objetivo é minimizar o tempo de inatividade não planejado, garantindo que os serviços estejam acessíveis para os usuários sempre que necessário. Para alcançar alta disponibilidade, são implementadas várias estratégias, como redundância de hardware, balanceamento de carga, e mecanismos de failover.
-
+</details>
 
 # Load Balancing:
 Load balancing is a technique used to evenly distribute network traffic among multiple servers or resources to optimize performance, increase processing capacity, and ensure system reliability. When a server becomes overloaded, the load balancer redirects traffic requests to other available servers. This allows for more efficient resource utilization and avoids overloading at a single point, thereby improving scalability and system reliability.
